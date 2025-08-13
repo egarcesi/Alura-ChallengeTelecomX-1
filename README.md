@@ -31,9 +31,10 @@ El objetivo es analizar los datos históricos y actuales de clientes, identifica
 
 ## 📂 Estructura del repositorio
 
-│-- 📄 README.md → Descripción del proyecto
-│-- 📄 TelecomX_Analisis.ipynb → Notebook con el desarrollo del análisis
-│-- 📁 Base-de-datos-challenge2 → Carpeta con las bases de datos
+    ├── 📄 README.md → Descripción del proyecto
+    ├── 📄 TelecomX_Analisis.ipynb → Notebook con el desarrollo del análisis
+    └── 📁 Base-de-datos-challenge2 → Carpeta con las bases de datos
+
 
 ## 🚀 Flujo de trabajo
 
