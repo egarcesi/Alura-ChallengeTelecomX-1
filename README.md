@@ -62,12 +62,12 @@ El objetivo es analizar los datos históricos y actuales de clientes, identifica
 
 1. Clonar el repositorio:
    
-   git clone https://github.com/egarcesi/Alura-ChallengeTelecomX-1.git
-   cd Alura-ChallengeTelecomX-1
+       git clone https://github.com/egarcesi/Alura-ChallengeTelecomX-1.git
+       cd Alura-ChallengeTelecomX-1
 
-2. Abrir el archivo Google Colab:
+3. Abrir el archivo Google Colab:
 
-   Google Colab TelecomX_Analisis.ipynb
+       Google Colab TelecomX_Analisis.ipynb
 
 ## 📌 Autor
 
