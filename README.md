@@ -1,4 +1,4 @@
-# 📊 Proyecto Churn de Clientes - Telecom X
+# Proyecto Churn de Clientes - Telecom X
 
 ## 📝 Descripción
 
